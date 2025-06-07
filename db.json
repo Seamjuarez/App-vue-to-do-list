@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Aprender Vue.js",
+      "completed": false,
+      "createdAt": "2025-06-06T10:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "text": "Implementar API con json-server",
+      "completed": true,
+      "createdAt": "2025-06-06T11:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "text": "Subir proyecto a GitHub",
+      "completed": false,
+      "createdAt": "2025-06-06T12:00:00.000Z"
+    },
+    {
+      "text": "Hacer tareas pendientes!!",
+      "id": 1749258126579,
+      "completed": false,
+      "createdAt": "2025-06-07T01:02:06.579Z"
+    }
+  ]
+}
